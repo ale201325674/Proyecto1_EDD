@@ -1,0 +1,2 @@
+# Proyecto1_EDD
+desarrollo de una aplicación web la cual será de uso exclusivo para los estudiantes de la carrera de Ingeniería en Ciencias y Sistemas, la cual consiste en un gestor de horarios, cursos, control de notas, y agenda electrónica tanto para los estudiantes como para los tutores académicos del proyecto DTT. Dicha aplicación constara de una base de datos en memoria implementada por los estudiantes, así como una interfaz responsiva, y distintos módulos exclusivos para los tutores académicos.
